@@ -7,6 +7,7 @@ public class Main{
         System.out.println("Haowen Wei");
         System.out.println("asddfasdfasfas");
         System.out.println("Another line");
+        System.out.println("Test");
     }
 
     public void RussellFunct(){
