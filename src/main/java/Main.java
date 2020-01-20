@@ -3,6 +3,7 @@ public class Main{
         System.out.println("Hello");
         System.out.println("Russell");
         System.out.println("Haowen Wei");
+        System.out.println("asddfasdfasfas");
     }
 
     public void RussellFunct(){
