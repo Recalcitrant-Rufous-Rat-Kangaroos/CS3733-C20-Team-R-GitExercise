@@ -5,4 +5,8 @@ public class Main{
         System.out.println("Haowen Wei");
     }
 
+    public void RussellFunct(){
+        System.out.println("Russell function");
+    }
+
 }
