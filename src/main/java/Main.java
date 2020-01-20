@@ -4,6 +4,7 @@ public class Main{
 
         System.out.println("Ian says Hi");
         System.out.println("Russell");
+        System.out.println("Xiaowei Chen");
     }
 
     public void RussellFunct(){
