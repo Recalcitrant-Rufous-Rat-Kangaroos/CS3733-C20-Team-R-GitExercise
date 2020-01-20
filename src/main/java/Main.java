@@ -1,7 +1,6 @@
 public class Main{
     public static void main(String[] args){
         System.out.println("Hello");
-<<<<<<< HEAD
 
         System.out.println("Ian says Hi");
         System.out.println("Russell");
@@ -9,13 +8,11 @@ public class Main{
         System.out.println("asddfasdfasfas");
         System.out.println("Another line");
         System.out.println("Xiaowei Chen");
+        System.out.println("Cray Johnson");
     }
 
     public void RussellFunct(){
         System.out.println("Russell function");
-=======
-        System.out.println("Cray Johnson");
->>>>>>> Cray
     }
 
 }
