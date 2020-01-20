@@ -6,4 +6,8 @@ public class Main{
         System.out.println("Russell");
     }
 
+    public void RussellFunct(){
+        System.out.println("Russell function");
+    }
+
 }
